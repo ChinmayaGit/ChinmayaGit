@@ -59,6 +59,7 @@
 ## ☁️ Cloud & DevOps
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,githubactions" />
+<img src="https://cdn.simpleicons.org/oracle/F80000" height="48" alt="OCI" />
 </p>
 
 ## 🔐 Cybersecurity & IAM
@@ -78,6 +79,7 @@
 # 📜 Certifications
 
 - ☁️ AWS Certified Solutions Architect – Associate
+- ☁️ AWS Certified Data Engineer – Associate
 
 ---
 
