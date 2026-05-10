@@ -12,20 +12,20 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 💼 Advisory Analyst at Deloitte
 - 🎓 MCA Graduate
 - ☁️ AWS Certified Solutions Architect – Associate
 - ☁️ AWS Certified Data Engineer – Associate
 - 📱 Flutter & Full Stack Developer
-- 🔐 Interested in Cybersecurity, Cloud & IAM
+- 🔐 Passionate about Cybersecurity, Cloud & IAM
 - 🎮 Exploring Multiplayer Game Systems & 3D Web Experiences
 - ☁️ Exploring AWS, Azure & Oracle Cloud Infrastructure (OCI)
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -43,24 +43,29 @@
 
 # 💻 Tech Stack
 
+## 🌐 Frontend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+## ⚙️ Backend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 ## 📱 Mobile Development
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-## 🌐 Web Development
+## 🗄️ Databases & Backend Services
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css" />
-</p>
-
-## 🗄️ Database
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase" />
 </p>
 
 ## ☁️ Cloud & DevOps
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,gitlab,githubactions,kafka" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,gitlab,githubactions,kafka,nginx,jenkins" />
 </p>
 
 ## 🔐 Cybersecurity & IAM
@@ -70,14 +75,19 @@
 
 </p>
 
-## 🛠️ Tools & Platforms
+## 🧠 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio,pycharm,anaconda,vscode,postman,firebase,supabase,kali,ubuntu,nginx,bash,figma,jenkins,jira" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,js,ts" />
 </p>
 
-## 🎮 Game Development
+## 🛠️ Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=unity,threejs" />
+<img src="https://skillicons.dev/icons?i=androidstudio,pycharm,anaconda,vscode,postman,kali,ubuntu,bash,figma,jira" />
+</p>
+
+## 🎮 Game Development & Graphics
+<p align="left">
+<img src="https://skillicons.dev/icons?i=unity,threejs,blender" />
 </p>
 
 ---
