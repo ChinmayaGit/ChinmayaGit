@@ -16,10 +16,12 @@
 
 - 💼 Advisory Analyst at Deloitte
 - 🎓 MCA Graduate
-- ☁️ AWS Certified Solutions Architect Associate
+- ☁️ AWS Certified Solutions Architect – Associate
+- ☁️ AWS Certified Data Engineer – Associate
 - 📱 Flutter & Full Stack Developer
 - 🔐 Interested in Cybersecurity, Cloud & IAM
 - 🎮 Exploring Multiplayer Game Systems & 3D Web Experiences
+- ☁️ Exploring AWS, Azure & Oracle Cloud Infrastructure (OCI)
 
 ---
 
@@ -53,13 +55,12 @@
 
 ## 🗄️ Database
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 </p>
 
 ## ☁️ Cloud & DevOps
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,githubactions" />
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="48" alt="OCI" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,gitlab,githubactions,kafka" />
 </p>
 
 ## 🔐 Cybersecurity & IAM
@@ -67,6 +68,11 @@
 
 `SailPoint ISC` • `IAM` • `Cybersecurity` • `Active Directory`
 
+</p>
+
+## 🛠️ Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=androidstudio,pycharm,kali" />
 </p>
 
 ## 🎮 Game Development
@@ -89,6 +95,7 @@
 - Terraform
 - Cloud Security
 - AI Agent Systems
+- Oracle Cloud Infrastructure (OCI)
 
 ---
 
@@ -116,6 +123,6 @@
 
 <div align="center">
 
-### ⭐ “Building scalable apps, secure systems & creative experiences.”
+### ⭐ Building scalable apps, secure systems & creative experiences.
 
 </div>
