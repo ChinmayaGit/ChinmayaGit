@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_LINK" alt="banner" width="100%" />
+<img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/ChatGPT%20Image%20May%2011%2C%202026%2C%2002_09_10%20AM.png" alt="banner" width="100%" />
 
 # Hi 👋, I'm Chinmaya Garnaik
 
