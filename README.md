@@ -1,66 +1,119 @@
-👋!! Hi There !!👋 <br /><br />
- ✔  I'm Chinmaya Garnaik <br />
-- 👀 I'm currently Pursuing Master of Computer Application (MCA)
-<!--  👨‍💻 I'm currently learning React Native <br /> -->
+<div align="center">
 
+<img src="YOUR_BANNER_IMAGE_LINK" alt="banner" width="100%" />
+
+# Hi 👋, I'm Chinmaya Garnaik
+
+### 🚀 Software Engineer | Flutter Developer | Cloud & Cybersecurity Enthusiast
+
+<img src="https://komarev.com/ghpvc/?username=ChinmayaGit&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
-<!-- dummy -->
 
-### Connect with me: <social> <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/chinmaya-garnaik-a093a21b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-<!--   <a href="https://instagram.com/whyarchit">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-      </a> -->
+---
+
+## 👨‍💻 About Me
+
+- 💼 Advisory Analyst at Deloitte
+- 🎓 MCA Graduate
+- ☁️ AWS Certified Solutions Architect Associate
+- 📱 Flutter & Full Stack Developer
+- 🔐 Interested in Cybersecurity, Cloud & IAM
+- 🎮 Exploring Multiplayer Game Systems & 3D Web Experiences
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/chinmaya-garnaik-a093a21b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ChinmayaGit">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
-<about-stuff>
+---
 
+# 💻 Tech Stack
 
-### :hammer_and_wrench: Languages and Tools :
-  <div id="skils">
-    <a>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-      </a>
-    <a>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
-      </a>
-    <a>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP Badge"/>
-      </a>
-    <a>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA Badge"/>
-      </a>
-    <a>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=" alt="Dart Badge"/>
-      </a>
-    <a>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" alt="Flutter Badge"/>
-      </a>
-  
+## 📱 Mobile Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+## 🌐 Web Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css" />
+</p>
+
+## 🗄️ Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+## ☁️ Cloud & DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,githubactions" />
+</p>
+
+## 🔐 Cybersecurity & IAM
+<p align="left">
+
+`SailPoint ISC` • `IAM` • `Cybersecurity` • `Active Directory`
+
+</p>
+
+## 🎮 Game Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=unity,threejs" />
+</p>
+
+---
+
+# 📜 Certifications
+
+- ☁️ AWS Certified Solutions Architect – Associate
+
+---
+
+# 🌱 Currently Learning
+
+- Kubernetes
+- Terraform
+- Cloud Security
+- AI Agent Systems
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChinmayaGit&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayaGit&theme=tokyonight" />
+
 </div>
-    <div id="skilsv2">
-         <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Flutter.png" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Firebase.png" title="Firebase" alt="Firebase" width="50" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/nodejs.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/React.png" title="React" alt="React" width="60" height="55"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/mongo_db.png" title="Mongo-DB" alt="Mongo-DB" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Angular.png" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/HTML.png" title="Html" alt="Html" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/CSS.png" title="CSS" alt="CSS" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/js.png" title="JS" alt="JS" width="55" height="60"/>&nbsp;
-        <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/3JS.png" title="3JS" alt="3JS" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/Git.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/unity.png" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
-     <img src="https://github.com/ChinmayaGit/ChinmayaGit/blob/main/mySql.png" title="MySql" alt="MySql" width="60" height="60"/>&nbsp;
-  </div>
-  
-  ---
-  
-  ### :fire: My Stats :
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinmayaGit&theme=dark&background=000000)](https://git.io/streak-stats)
-  
- 
+
+---
+
+# 🚀 Featured Projects
+
+- 🎮 Multiplayer Mystery Game
+- 📱 Flutter Productivity Apps
+- ☁️ Cloud Infrastructure Projects
+- 🔐 IAM & Security Integrations
+- 🌐 Full Stack Web Applications
+
+---
+
+<div align="center">
+
+### ⭐ “Building scalable apps, secure systems & creative experiences.”
+
+</div>
