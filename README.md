@@ -72,7 +72,7 @@
 
 ## 🛠️ Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=androidstudio,pycharm,kali" />
+<img src="https://skillicons.dev/icons?i=androidstudio,pycharm,anaconda,vscode,postman,firebase,supabase,kali,ubuntu,nginx,bash,figma,jenkins,jira" />
 </p>
 
 ## 🎮 Game Development
