@@ -24,11 +24,7 @@ Advisory Analyst at Deloitte · MCA Graduate · Bhubaneswar
 ## About me
 
 - Full Stack Developer, Cloud Architect, and Network Engineer. [Portfolio](https://cgarnaik.duckdns.org/)
-- Advisory Analyst at Deloitte, MCA graduate, based in Bhubaneswar
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Data Engineer – Associate
-- Claude Certified Developer - Foundations
-- NVIDIA-Certified Associate: Generative AI LLMs
+- Analyst at Deloitte, MCA graduate, based in Bhubaneswar
 - Flutter and full stack apps, from client UI through APIs and cloud
 - IAM and Zero Trust: SailPoint Identity Security Cloud, privileged access, and Active Directory
 - AI systems: agent workflows, RAG pipelines, log monitoring, and recommendation systems
